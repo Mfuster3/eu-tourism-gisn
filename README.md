@@ -44,3 +44,6 @@ the MIT License.
 The national tourism strategy documents remain the property of their
 respective institutions and are accessed through links to the original
 official sources.
+# Interactive EU Tourism GISN Explorer
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21340441.svg)](https://doi.org/10.5281/zenodo.21340441)
